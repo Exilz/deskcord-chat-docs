@@ -31,7 +31,7 @@ Paste the generated snippet into your site's HTML, immediately before the closin
     },
   };
 </script>
-<script src="https://cdn.jsdelivr.net/npm/deskcord/dist/deskcord.min.js"></script>
+<script src="https://cdn.deskcord.chat/deskcord.min.js"></script>
 ```
 
 The widget loads asynchronously and renders a chat bubble in the bottom-right corner of the page. No further configuration is required for a working **live support chat** widget.
@@ -49,7 +49,7 @@ If you're self-hosting or proxying the Deskcord API under your own domain, pass 
     },
   };
 </script>
-<script src="https://cdn.jsdelivr.net/npm/deskcord/dist/deskcord.min.js"></script>
+<script src="https://cdn.deskcord.chat/deskcord.min.js"></script>
 ```
 
 If omitted, the widget talks to Deskcord's default API at `api.deskcord.chat`.
@@ -64,7 +64,7 @@ The embed is plain HTML/JS, so it drops into any stack's global layout:
 <Script id="deskcord-settings" strategy="beforeInteractive">
   {`window.deskcord = { settings: { app_id: "YOUR_DISCORD_SERVER_ID" } };`}
 </Script>
-<Script src="https://cdn.jsdelivr.net/npm/deskcord/dist/deskcord.min.js" strategy="lazyOnload" />
+<Script src="https://cdn.deskcord.chat/deskcord.min.js" strategy="lazyOnload" />
 ```
 
 **WordPress** — paste the snippet into your theme's `footer.php` before `</body>`, or use a "custom scripts" / header-footer plugin.

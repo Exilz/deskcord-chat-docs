@@ -63,7 +63,7 @@ Installing the Deskcord **live chat widget** on your website is a copy-paste job
        },
      };
    </script>
-   <script src="https://cdn.jsdelivr.net/npm/deskcord/dist/deskcord.min.js"></script>
+   <script src="https://cdn.deskcord.chat/deskcord.min.js"></script>
    ```
 
 3. Save and deploy your site. The Deskcord chat bubble appears automatically in the bottom-right corner — no further configuration needed.
