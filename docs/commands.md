@@ -56,7 +56,7 @@ Customize your widget's appearance.
 
 **Usage:** `/customize-widget`
 
-Opens a configuration interface for your widget's brand color, header text, branding, and launcher position (bottom-left or bottom-right). Changes apply instantly on your website — no redeploy required.
+Opens a configuration interface for your widget's brand color, header text, branding, and widget position (bottom-left or bottom-right). Changes apply instantly on your website — no redeploy required.
 
 ## `/set-allowed-domains`
 

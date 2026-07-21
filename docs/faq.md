@@ -50,7 +50,7 @@ Yes, anytime, via `/manage-subscription`. The price difference is prorated.
 ## Widget Customization
 
 **Can I customize the widget's appearance?**
-Yes — use `/customize-widget` to set your brand color, header text, branding, and launcher position (bottom-left or bottom-right). Every accent in the widget updates to match, so it feels native to your site.
+Yes — use `/customize-widget` to set your brand color, header text, branding, and widget position (bottom-left or bottom-right). Every accent in the widget updates to match, so it feels native to your site.
 
 **Where does the widget appear on my site?**
 As a chat bubble in the bottom-right corner by default — switch it to bottom-left with `/customize-widget`. It's mobile-responsive and works on all devices.
