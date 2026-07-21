@@ -34,7 +34,7 @@ Paste the generated snippet into your site's HTML, immediately before the closin
 <script src="https://cdn.deskcord.chat/deskcord.min.js"></script>
 ```
 
-The widget loads asynchronously and renders a chat bubble in the bottom-right corner of the page. No further configuration is required for a working **live support chat** widget.
+The widget loads asynchronously and renders a chat bubble in the bottom-right corner of the page by default (configurable via `/customize-widget`). No further configuration is required for a working **live support chat** widget.
 
 ### Optional: custom API domain
 
@@ -91,7 +91,7 @@ You can add multiple domains. Development domains (e.g. `localhost`) are always 
 
 ## Customizing the widget after install
 
-Run `/customize-widget` in Discord to set your brand color, header text, and branding. Changes apply instantly on your live site — no redeploy needed.
+Run `/customize-widget` in Discord to set your brand color, header text, branding, and launcher position (bottom-left or bottom-right). Changes apply instantly on your live site — no redeploy needed.
 
 ## Troubleshooting
 
