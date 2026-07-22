@@ -157,10 +157,10 @@ More questions answered in [docs/faq.md](docs/faq.md).
 
 Deskcord is built as an affordable, Discord-native alternative to the major players in live chat and help desk software:
 
-- [Deskcord vs Intercom](https://deskcord.chat/compare/intercom?utm_source=github&utm_medium=docs) — Intercom alternative and Intercom replacement for startups
-- [Deskcord vs Zendesk](https://deskcord.chat/compare/zendesk?utm_source=github&utm_medium=docs) — Zendesk alternative without the per-agent pricing
-- [Deskcord vs Crisp](https://deskcord.chat/compare/crisp?utm_source=github&utm_medium=docs) — Crisp alternative with native Discord integration
-- [Deskcord vs Help Scout / HelpCrunch](https://deskcord.chat/compare/helpcrunch?utm_source=github&utm_medium=docs) — Help Scout alternative with unlimited team members
+- [Deskcord vs Intercom](https://deskcord.chat/alternative/intercom?utm_source=github&utm_medium=docs) — Intercom alternative and Intercom replacement for startups
+- [Deskcord vs Zendesk](https://deskcord.chat/alternative/zendesk?utm_source=github&utm_medium=docs) — Zendesk alternative without the per-agent pricing
+- [Deskcord vs Crisp](https://deskcord.chat/alternative/crisp?utm_source=github&utm_medium=docs) — Crisp alternative with native Discord integration
+- [Deskcord vs Help Scout / HelpCrunch](https://deskcord.chat/alternative/helpcrunch?utm_source=github&utm_medium=docs) — Help Scout alternative with unlimited team members
 
 ## Documentation
 
