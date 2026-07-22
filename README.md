@@ -71,7 +71,7 @@ Installing the Deskcord **live chat widget** on your website is a copy-paste job
 That's it — the widget is live, mobile-responsive, and ready to create Discord threads from real customer conversations. A few notes:
 
 - **Unlimited domains, one subscription.** You can install the same embed code on every website or product you run and manage all of it from a single Discord server — there's no per-domain fee.
-- **Customize the look.** Use `/customize-widget` in Discord to set your brand color, header text, branding, and widget position (bottom-left or bottom-right) — changes apply instantly, no redeploy required.
+- **Customize the look.** Use `/customize-widget` in Discord to set your brand color, header text, branding, widget position (bottom-left or bottom-right), and the offline message shown when no one's around to reply — changes apply instantly, no redeploy required.
 - **Lock it down (optional).** Use `/set-allowed-domains` to restrict which domains can load your widget code, so your embed can't be copy-pasted onto someone else's site. Local development domains (e.g. `localhost`) are always allowed automatically.
 - **Framework-agnostic.** Because it's a plain script tag, the embed works the same way in static HTML, WordPress, Webflow, Next.js, React, Vue, Shopify, or any other stack — just drop it in your site's global layout or footer include.
 
@@ -134,7 +134,7 @@ Deskcord is configured entirely through Discord slash commands — no external a
 | `/manage-subscription`     | Open the Stripe customer portal to upgrade, downgrade, or cancel                     |
 | `/set-main-cs-member`      | Assign the single support seat on the Solo plan                                      |
 | `/resolve-conversation`    | Mark a customer thread as resolved and archive it                                    |
-| `/customize-widget`        | Set your widget's brand color, header text, branding, and widget position            |
+| `/customize-widget`        | Set your widget's brand color, header text, branding, widget position, and offline message |
 | `/set-allowed-domains`     | Restrict which domains may load your widget embed                                    |
 
 Full details and usage examples: [docs/commands.md](docs/commands.md).

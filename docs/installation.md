@@ -91,7 +91,7 @@ You can add multiple domains. Development domains (e.g. `localhost`) are always 
 
 ## Customizing the widget after install
 
-Run `/customize-widget` in Discord to set your brand color, header text, branding, and widget position (bottom-left or bottom-right). Changes apply instantly on your live site — no redeploy needed.
+Run `/customize-widget` in Discord to set your brand color, header text, branding, widget position (bottom-left or bottom-right), and the offline message shown when no one's around to reply. Changes apply instantly on your live site — no redeploy needed.
 
 ## Troubleshooting
 
