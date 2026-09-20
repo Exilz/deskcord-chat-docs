@@ -1,6 +1,6 @@
 # Deskcord vs Crisp — Discord-Based Alternative
 
-A **Crisp alternative** with native Discord integration. Deskcord offers customer support through Discord at $9.99/month, compared to Crisp's per-workspace pricing that grows as you add more sites or teams.
+A **Crisp alternative** with native Discord integration. Deskcord offers customer support through Discord at $4.99/month, compared to Crisp's per-workspace pricing that grows as you add more sites or teams.
 
 ## Deskcord vs Crisp — feature comparison
 
@@ -16,11 +16,11 @@ A **Crisp alternative** with native Discord integration. Deskcord offers custome
 | Discord integration | ❌ | ✅ |
 | Multi-channel support | ✅ | Discord-focused |
 | Setup time | 30–60 minutes | ~5 minutes |
-| Annual cost (Basic plan) | $300/year | $119.88/year (Solo) |
+| Annual cost (Basic plan) | $300/year | $59.88/year (Solo) |
 
 ## Pricing reality check
 
-Crisp's Pro plan costs **$25/workspace/month**. Most growing teams need multiple workspaces, pushing real costs to **$50+/month**. Deskcord covers the same ground for **$9.99–$39.99/month**, with no per-workspace surcharge.
+Crisp's Pro plan costs **$25/workspace/month**. Most growing teams need multiple workspaces, pushing real costs to **$50+/month**. Deskcord covers the same ground for **$4.99–$19.99/month**, with no per-workspace surcharge.
 
 ## Why teams switch from Crisp to Deskcord
 

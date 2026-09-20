@@ -8,7 +8,7 @@ Start your Deskcord subscription.
 
 **Usage:** `/subscribe`
 
-Opens a menu where you choose between the Solo ($9.99/month) or Team ($49.99/month) plan. You're redirected to Stripe for secure payment. Includes a 7-day free trial, no credit card required to preview.
+Opens a menu where you choose between the Solo ($4.99/month) or Team ($19.99/month) plan. You're redirected to Stripe for secure payment. Includes a 7-day free trial, no credit card required to preview.
 
 ## `/setup`
 

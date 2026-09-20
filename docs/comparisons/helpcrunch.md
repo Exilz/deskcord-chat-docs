@@ -1,6 +1,6 @@
 # Deskcord vs HelpCrunch — Discord-Native Alternative
 
-A **HelpCrunch alternative** — and a **Help Scout alternative** in the same vein — with Discord integration. Deskcord offers customer support at $9.99/month with unlimited team members and no per-seat fees, unlike HelpCrunch's per-user pricing.
+A **HelpCrunch alternative** — and a **Help Scout alternative** in the same vein — with Discord integration. Deskcord offers customer support at $4.99/month with unlimited team members and no per-seat fees, unlike HelpCrunch's per-user pricing.
 
 ## Deskcord vs HelpCrunch — feature comparison
 
@@ -16,11 +16,11 @@ A **HelpCrunch alternative** — and a **Help Scout alternative** in the same ve
 | Discord integration | ❌ | ✅ |
 | No per-user pricing | ❌ | ✅ |
 | Setup time | 20–30 minutes | ~5 minutes |
-| Annual cost (3 users) | $540/year | $119.88/year (Solo) |
+| Annual cost (3 users) | $540/year | $59.88/year (Solo) |
 
 ## Pricing reality check
 
-HelpCrunch charges **$15/user/month**. With just 3 team members, that's **$45/month**. Deskcord's Team plan includes **unlimited members** for a flat **$39.99/month** (billed annually) — cheaper even for a 3-person team, and it stays flat as you grow.
+HelpCrunch charges **$15/user/month**. With just 3 team members, that's **$45/month**. Deskcord's Team plan includes **unlimited members** for a flat **$19.99/month** (billed annually) — cheaper even for a 3-person team, and it stays flat as you grow.
 
 ## Why teams switch to Deskcord
 

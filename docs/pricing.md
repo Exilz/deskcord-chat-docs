@@ -6,7 +6,7 @@ Deskcord is flat-priced **help desk software** with no per-seat fees — a delib
 
 All plans include a 7-day free trial, unlimited domains, and unlimited conversations. Cancel anytime.
 
-### Solo — $9.99/month ($7.99/month billed annually, $95.88/year)
+### Solo — $4.99/month ($4.08/month billed annually, $49/year)
 
 Perfect for solo founders and indie hackers running multiple products.
 
@@ -17,7 +17,7 @@ Perfect for solo founders and indie hackers running multiple products.
 - Mobile notifications
 - 7-day free trial
 
-### Team — $49.99/month ($39.99/month billed annually, $479.88/year)
+### Team — $19.99/month ($15.83/month billed annually, $190/year)
 
 Perfect for small teams. Most popular plan.
 
@@ -34,10 +34,10 @@ Deskcord is built to be a **budget-friendly Zendesk competitor** and an **afford
 
 | Tool | Typical cost | Deskcord Team (annual) |
 |---|---|---|
-| **Intercom** | $39/seat, 2-seat minimum → $78+/month, often $500+/month at scale | $39.99/month |
-| **Zendesk** | $55/agent/month → $165/month for a 3-agent team | $39.99/month |
-| **Crisp** | $25/workspace/month, $50+/month across multiple workspaces | $39.99/month |
-| **Help Scout / HelpCrunch** | $15/user/month → $45/month for a 3-person team | $39.99/month |
+| **Intercom** | $39/seat, 2-seat minimum → $78+/month, often $500+/month at scale | $19.99/month |
+| **Zendesk** | $55/agent/month → $165/month for a 3-agent team | $19.99/month |
+| **Crisp** | $25/workspace/month, $50+/month across multiple workspaces | $19.99/month |
+| **Help Scout / HelpCrunch** | $15/user/month → $45/month for a 3-person team | $19.99/month |
 
 Deskcord's cost stays flat regardless of team size, product count, or domain count — a **cheap support tool** for teams who don't want per-seat pricing to explode as they grow.
 

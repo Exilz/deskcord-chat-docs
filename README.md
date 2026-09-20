@@ -2,7 +2,7 @@
 
 ![Deskcord](opengraph.jpg)
 
-**Deskcord** is help desk software and a **live chat widget for Discord** that turns any Discord server into a full customer support platform. Instead of paying for expensive enterprise tools like Intercom, Zendesk, Freshdesk, Help Scout, Drift, Crisp, LiveChat, Olark, or Front, small teams and indie hackers can run **Discord-based customer support** for a flat $9.99–$49.99/month — with no per-seat pricing, no bloated dashboards, and no new tool to learn.
+**Deskcord** is help desk software and a **live chat widget for Discord** that turns any Discord server into a full customer support platform. Instead of paying for expensive enterprise tools like Intercom, Zendesk, Freshdesk, Help Scout, Drift, Crisp, LiveChat, Olark, or Front, small teams and indie hackers can run **Discord-based customer support** for a flat $4.99–$19.99/month — with no per-seat pricing, no bloated dashboards, and no new tool to learn.
 
 Add a **customer support widget** to your website, and every visitor conversation becomes a thread in your Discord server. Reply from Discord — desktop or mobile — and the customer sees your answer instantly in the widget on your site. No separate login, no new app, no email delays.
 
@@ -111,8 +111,8 @@ All plans include a 7-day free trial, unlimited domains, and unlimited conversat
 
 | Plan     | Monthly   | Yearly (per month)            | Best for                                                  |
 | -------- | --------- | ----------------------------- | --------------------------------------------------------- |
-| **Solo** | $9.99/mo  | $7.99/mo (billed $95.88/yr)   | Solo founders and indie hackers running multiple products |
-| **Team** | $49.99/mo | $39.99/mo (billed $479.88/yr) | Small teams who need more than one person replying        |
+| **Solo** | $4.99/mo  | $4.08/mo (billed $49/yr)      | Solo founders and indie hackers running multiple products |
+| **Team** | $19.99/mo | $15.83/mo (billed $190/yr)    | Small teams who need more than one person replying        |
 
 Compared to typical **help desk software** and **live chat software** pricing:
 
@@ -120,7 +120,7 @@ Compared to typical **help desk software** and **live chat software** pricing:
 - **Zendesk**: from $55/agent/month ($165/month for a 3-agent team).
 - **Crisp**: $25/workspace/month, often $50+/month once you need multiple workspaces.
 - **Help Scout**: per-user pricing that scales with team size.
-- **Deskcord Team**: a flat **$39.99/month (annual)** for unlimited agents and unlimited domains.
+- **Deskcord Team**: a flat **$19.99/month (annual)** for unlimited agents and unlimited domains.
 
 ## Discord Commands
 

@@ -1,6 +1,6 @@
 # Deskcord vs Zendesk — Simple & Affordable Alternative
 
-A **Zendesk alternative** without the complexity. Deskcord offers Discord-based customer support at $9.99/month, skipping the enterprise overhead that comes with Zendesk's per-agent pricing and steep learning curve. It's a genuinely **budget-friendly Zendesk competitor** for small teams.
+A **Zendesk alternative** without the complexity. Deskcord offers Discord-based customer support at $4.99/month, skipping the enterprise overhead that comes with Zendesk's per-agent pricing and steep learning curve. It's a genuinely **budget-friendly Zendesk competitor** for small teams.
 
 ## Deskcord vs Zendesk — feature comparison
 
@@ -16,11 +16,11 @@ A **Zendesk alternative** without the complexity. Deskcord offers Discord-based 
 | Discord integration | ❌ | ✅ |
 | No per-agent pricing | ❌ | ✅ |
 | Learning curve | Steep (days to weeks) | None — just use Discord |
-| Annual cost (2 agents) | $1,320+/year | $119.88/year (Solo) |
+| Annual cost (2 agents) | $1,320+/year | $59.88/year (Solo) |
 
 ## Pricing reality check
 
-Zendesk Support starts at **$55/agent/month**. For a small team of just 3 agents, that's already **$165/month**. Deskcord's Team plan gives you **unlimited agents** for a flat **$39.99/month** (billed annually).
+Zendesk Support starts at **$55/agent/month**. For a small team of just 3 agents, that's already **$165/month**. Deskcord's Team plan gives you **unlimited agents** for a flat **$19.99/month** (billed annually).
 
 ## Why teams switch from Zendesk to Deskcord
 

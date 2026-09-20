@@ -10,8 +10,8 @@ Before you can generate an embed code, the Deskcord bot needs to be in your Disc
 
 Run `/subscribe` in your Discord server. Choose between:
 
-- **Solo** — $9.99/month, one support agent, unlimited domains and conversations.
-- **Team** — $49.99/month, unlimited team members, unlimited domains and conversations.
+- **Solo** — $4.99/month, one support agent, unlimited domains and conversations.
+- **Team** — $19.99/month, unlimited team members, unlimited domains and conversations.
 
 Both plans include a 7-day free trial. You'll be redirected to Stripe for secure checkout.
 
