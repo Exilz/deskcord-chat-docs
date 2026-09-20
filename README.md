@@ -111,8 +111,8 @@ All plans include a 7-day free trial, unlimited domains, and unlimited conversat
 
 | Plan     | Monthly   | Yearly (per month)            | Best for                                                  |
 | -------- | --------- | ----------------------------- | --------------------------------------------------------- |
-| **Solo** | $4.99/mo  | $4.08/mo (billed $49/yr)      | Solo founders and indie hackers running multiple products |
-| **Team** | $19.99/mo | $15.83/mo (billed $190/yr)    | Small teams who need more than one person replying        |
+| **Solo** | $4.99/mo  | $4/mo (billed $49/yr)         | Solo founders and indie hackers running multiple products |
+| **Team** | $19.99/mo | $16/mo (billed $190/yr)       | Small teams who need more than one person replying        |
 
 Compared to typical **help desk software** and **live chat software** pricing:
 

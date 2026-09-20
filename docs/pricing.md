@@ -6,7 +6,7 @@ Deskcord is flat-priced **help desk software** with no per-seat fees — a delib
 
 All plans include a 7-day free trial, unlimited domains, and unlimited conversations. Cancel anytime.
 
-### Solo — $4.99/month ($4.08/month billed annually, $49/year)
+### Solo — $4.99/month ($4/month billed annually, $49/year)
 
 Perfect for solo founders and indie hackers running multiple products.
 
@@ -17,7 +17,7 @@ Perfect for solo founders and indie hackers running multiple products.
 - Mobile notifications
 - 7-day free trial
 
-### Team — $19.99/month ($15.83/month billed annually, $190/year)
+### Team — $19.99/month ($16/month billed annually, $190/year)
 
 Perfect for small teams. Most popular plan.
 
