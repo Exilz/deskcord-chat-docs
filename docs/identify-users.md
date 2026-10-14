@@ -8,6 +8,8 @@ If your website has user accounts, you can tell the Deskcord widget who your vis
 
 Deskcord still stores no message content: conversations live in your Discord server and are read from there when the user opens the widget.
 
+> **Full guide:** [deskcord.chat/help/identity-verification](https://deskcord.chat/help/identity-verification?utm_source=github&utm_medium=docs) has code for Node.js, PHP / Laravel, WordPress, Python, Ruby on Rails, Go, Java and C#, frontend examples for React and Vue, and a ready-made prompt for AI coding agents if you don't code.
+
 ## 1. Turn on identity verification in Discord
 
 ```
@@ -101,6 +103,8 @@ window.deskcord.logout();
 ```
 
 Call it when the user logs out of your site. It removes the user's conversations and session from that browser, so the next person on a shared computer starts fresh. Calling `identify()` with a different user does the same automatically.
+
+On server-rendered pages, also print `user: null` in the embed snippet when nobody is logged in. The first page after a logout then ends the chat session, even if your logout button doesn't call `logout()`. Don't call `logout()` for visitors who were never logged in: it would clear an anonymous visitor's ongoing conversation.
 
 ## Without identity verification
 
