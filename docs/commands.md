@@ -66,6 +66,14 @@ Manage allowed domains for security.
 
 Controls which domains can use your widget embed code. Add domains to allow specific websites, remove domains to revoke access, or list all currently allowed domains. Optional but recommended. Development domains (`localhost`, etc.) are always allowed automatically.
 
+## `/identity-verification`
+
+Let logged-in users of your website find their conversations on any device.
+
+**Usage:** `/identity-verification [enable|rotate|disable]`
+
+`enable` shows your identity secret (creating it the first time), `rotate` replaces it, and `disable` turns the feature off. Your server uses the secret to sign your users' ids, which you then pass to `window.deskcord.identify()`. Requires the **Manage Server** permission, and the secret is only shown to you. See [Identifying Logged-In Users](identify-users.md).
+
 ---
 
 Back to [README](../README.md) · See also: [Installation](installation.md) · [FAQ](faq.md)

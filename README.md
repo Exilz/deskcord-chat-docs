@@ -83,6 +83,7 @@ Full command reference: [docs/commands.md](docs/commands.md).
 - **Discord Threads** — each customer gets their own thread, full conversation history, team member assignment, and one-click resolution.
 - **Mobile-First** — answer support tickets from the Discord mobile app with push notifications out of the box; no separate login.
 - **Privacy-First** — zero message content stored on Deskcord's servers; every conversation lives in your Discord server, built on Discord's own infrastructure.
+- **Logged-In Users** — identify your users with `identify()`: no intro form, their avatar in Discord, and their conversation history on every device, secured by identity verification.
 - **Transparent Pricing** — flat monthly pricing, unlimited domains on every plan, no per-seat fees, cancel anytime, 7-day free trial.
 - **Lightning-Fast Setup** — bot install, subscribe, embed, and you're answering customers in under 5 minutes.
 
@@ -136,6 +137,7 @@ Deskcord is configured entirely through Discord slash commands — no external a
 | `/resolve-conversation`    | Mark a customer thread as resolved and archive it                                    |
 | `/customize-widget`        | Set your widget's brand color, header text, branding, widget position, and offline message |
 | `/set-allowed-domains`     | Restrict which domains may load your widget embed                                    |
+| `/identity-verification`   | Let logged-in users find their conversations on any device                           |
 
 Full details and usage examples: [docs/commands.md](docs/commands.md).
 
@@ -166,6 +168,7 @@ Deskcord is built as an affordable, Discord-native alternative to the major play
 
 - [Installation](docs/installation.md) — detailed embed setup, framework examples, and troubleshooting
 - [Discord Commands](docs/commands.md) — full slash command reference
+- [Identifying Logged-In Users](docs/identify-users.md) — `identify()`, `logout()` and identity verification
 - [Pricing](docs/pricing.md) — plans, billing, and competitor cost comparisons
 - [Why Discord](docs/why-discord.md) — why Discord works as customer service chat infrastructure
 - [FAQ](docs/faq.md) — the full frequently-asked-questions list

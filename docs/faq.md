@@ -72,6 +72,9 @@ Since all data lives in Discord (GDPR compliant) and Deskcord doesn't store mess
 **How can I prevent others from using my widget code on their site?**
 Restrict your widget to specific domains with `/set-allowed-domains add yourdomain.com`. You can add multiple domains. This is optional but recommended.
 
+**Can my logged-in users see their conversations on any device?**
+Yes. Turn on identity verification with `/identity-verification enable`, sign each logged-in user's id on your server (HMAC-SHA256 with your secret), and pass it to `window.deskcord.identify()`. They skip the intro form and find their current and past conversations on every device. Call `window.deskcord.logout()` when they log out. Deskcord still stores no message content. See [Identifying Logged-In Users](identify-users.md).
+
 ## Troubleshooting
 
 **The widget isn't showing on my website**

@@ -89,6 +89,10 @@ By default, your embed code will run on any site it's pasted into. To prevent so
 
 You can add multiple domains. Development domains (e.g. `localhost`) are always allowed automatically, so local testing keeps working without extra configuration. List your current allow-list with `/set-allowed-domains list`, or remove one with `/set-allowed-domains remove yourdomain.com`.
 
+## Identifying logged-in users (optional)
+
+If your site has user accounts, pass the logged-in user to the widget with `window.deskcord.identify()`. They skip the intro form and show up in Discord with their profile picture. With identity verification (`/identity-verification enable`), they also find their conversations on every device. See [Identifying Logged-In Users](identify-users.md).
+
 ## Customizing the widget after install
 
 Run `/customize-widget` in Discord to set your brand color, header text, branding, widget position (bottom-left or bottom-right), and the offline message shown when no one's around to reply. Changes apply instantly on your live site — no redeploy needed.
