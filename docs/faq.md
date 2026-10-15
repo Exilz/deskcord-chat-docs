@@ -50,7 +50,16 @@ Yes, anytime, via `/manage-subscription`. The price difference is prorated.
 ## Widget Customization
 
 **Can I customize the widget's appearance?**
-Yes — use `/customize-widget` to set your brand color, header text, branding, widget position (bottom-left or bottom-right), and the offline message shown when no one's around to reply. Every accent in the widget updates to match, so it feels native to your site.
+Yes — use `/customize-widget` to set your brand color, header gradient and text colors, header text, widget position (bottom-left or bottom-right), and the offline message shown when no one's around to reply. Every accent in the widget updates to match, and text automatically stays readable on light colors. See [commands](commands.md#customize-widget).
+
+**Does the widget have a dark mode?**
+Yes. Add `theme: "dark"` to the settings in your embed snippet, or `theme: "auto"` to follow each visitor's system setting. The default is light.
+
+**Do customers have to fill in a form before chatting?**
+No. They type their message first; before it's sent, the widget asks for their name and email so your team knows who they are. Users identified with `identify()` skip that step.
+
+**Can customers send files?**
+Yes — images and PDFs up to 10 MB each. They can attach them, drag and drop them onto the chat, or paste a screenshot.
 
 **Where does the widget appear on my site?**
 As a chat bubble in the bottom-right corner by default — switch it to bottom-left with `/customize-widget`. It's mobile-responsive and works on all devices.

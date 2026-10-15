@@ -28,6 +28,7 @@ Paste the generated snippet into your site's HTML, immediately before the closin
   window.deskcord = {
     settings: {
       app_id: "YOUR_DISCORD_SERVER_ID",
+      // theme: "auto", // optional: "light" (default), "dark", or "auto" to follow the visitor's system
     },
   };
 </script>
@@ -91,7 +92,7 @@ You can add multiple domains. Development domains (e.g. `localhost`) are always 
 
 ## Customizing the widget after install
 
-Run `/customize-widget` in Discord to set your brand color, header text, branding, widget position (bottom-left or bottom-right), and the offline message shown when no one's around to reply. Changes apply instantly on your live site — no redeploy needed.
+Run `/customize-widget` in Discord to set your brand color, header text, and the offline message shown when no one's around to reply. Pass options to change the widget position, the header gradient color and the header text color instantly (see [commands](commands.md#customize-widget)). Changes apply instantly on your live site — no redeploy needed. For dark mode, add `theme: "dark"` or `theme: "auto"` to the embed settings.
 
 ## Troubleshooting
 

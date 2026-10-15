@@ -54,9 +54,21 @@ Marks the current thread as resolved and archives it. The customer sees the conv
 
 Customize your widget's appearance.
 
-**Usage:** `/customize-widget`
+**Usage:** `/customize-widget [position] [gradient_color] [text_color]`
 
-Opens a configuration interface for your widget's brand color, header text, branding, widget position (bottom-left or bottom-right), and the offline message shown when no one's around to reply. Changes apply instantly on your website — no redeploy required.
+Run it on its own to open a form for your widget's header text, brand color, and the offline message shown when no one's around to reply. Add options to change the rest instantly, without the form:
+
+| Option | What it changes |
+|---|---|
+| `position` | Bottom-right (default) or bottom-left |
+| `gradient_color` | Second color of the header and chat button gradient (default: a darker shade of your brand color) |
+| `text_color` | Header text and chat button icon (default: white or black, whichever reads best) |
+
+Colors take a hex code like `#EB459E`, or `auto` to go back to the default. Discord suggests colors as you type. Use the same color as your brand color for a flat header with no gradient.
+
+Example: `/customize-widget gradient_color:#EB459E text_color:#FFFFFF`
+
+Changes apply instantly on your website — no redeploy required.
 
 ## `/set-allowed-domains`
 
